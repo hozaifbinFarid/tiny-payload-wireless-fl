@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Tiny-payload wireless federated learning: experiment code"
+title: "Finite payload bias and delivery correction in wireless federated learning"
 authors:
   - family-names: "hozaifbinFarid"
     given-names: "Hozaif Bin Farid"
     orcid: "https://orcid.org/0009-0004-9247-6045"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-09-30"
 license: MIT
