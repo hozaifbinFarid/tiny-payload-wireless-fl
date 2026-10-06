@@ -70,9 +70,9 @@ Subject splits are subject-holdout. For PAMAP2 there is no official train/test d
 
 | Study | GPU time reserved by the notebook's ledger (Colab T4) |
 |---|---|
-| `pamap2_subjects` | 2 GPU-hours |
-| `har_subjects` | 1.5 GPU-hours |
-| `har_dirichlet` | 2 GPU-hours |
+| `pamap2_subjects` | 0.4 GPU-hours |
+| `har_subjects` | 0.5 GPU-hours |
+| `har_dirichlet` | 1 GPU-hours |
 
 Values are `reserved_seconds / 3600` from each study's `gpu_budget.json`. The ledger reserves time in conservative blocks, so these figures slightly overstate actual compute. For PAMAP2, the runtime pilot projected about 0.36 GPU-hours of round compute for the 264 fits, before data preparation, diagnostics and checkpoint I/O. The notebook stops scheduling new computation at 9 allocated GPU-hours. Colab's own usage counter remains the authority on your allowance; disconnect the runtime when the notebook finishes.
 
