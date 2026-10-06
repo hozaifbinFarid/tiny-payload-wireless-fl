@@ -1,7 +1,9 @@
 # Tiny-Payload Wireless Federated Learning
 
-Experiment code for the paper **"Finite payload bias and delivery correction in wireless federated learning"** (Hozaif Bin Farid, 2026).
-Code archive: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23057925.svg)](https://doi.org/10.5281/zenodo.23057925)
+Experiment code for the paper **"Finite payload bias and delivery correction in wireless federated learning"** (Hozaif Bin Farid, 2026; submitted to *Telecommunication Systems*).
+Code archive (all versions): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23057925.svg)](https://doi.org/10.5281/zenodo.23057925)  
+Code v1.0.1: <https://doi.org/10.5281/zenodo.23065574>  
+Result archives and checkpoints: <https://doi.org/10.5281/zenodo.23184027>
 
 ## What this is
 
@@ -66,13 +68,13 @@ Subject splits are subject-holdout. For PAMAP2 there is no official train/test d
 
 ## Approximate run time
 
-| Study | Approximate time on a Colab T4 |
+| Study | GPU time reserved by the notebook's ledger (Colab T4) |
 |---|---|
-| `pamap2_subjects` | The runtime pilot projected about 0.36 GPU-hours of round compute for the 264 fits, before data preparation, diagnostics and checkpoint I/O.
-| `har_subjects` | 
-| `har_dirichlet` | 
+| `pamap2_subjects` | 2 GPU-hours |
+| `har_subjects` | 1.5 GPU-hours |
+| `har_dirichlet` | 2 GPU-hours |
 
-The notebook keeps a persistent GPU-time ledger (`gpu_budget.json` in the output folder) and stops scheduling new computation at 9 allocated GPU-hours. Colab's own usage counter remains the authority on your allowance; disconnect the runtime when the notebook finishes.
+Values are `reserved_seconds / 3600` from each study's `gpu_budget.json`. The ledger reserves time in conservative blocks, so these figures slightly overstate actual compute. For PAMAP2, the runtime pilot projected about 0.36 GPU-hours of round compute for the 264 fits, before data preparation, diagnostics and checkpoint I/O. The notebook stops scheduling new computation at 9 allocated GPU-hours. Colab's own usage counter remains the authority on your allowance; disconnect the runtime when the notebook finishes.
 
 ## Known limitations
 
@@ -81,11 +83,25 @@ The notebook keeps a persistent GPU-time ledger (`gpu_budget.json` in the output
 - Simulated channels are orthogonal uplinks with block fading; setup, control and downlink are assumed reliable. Wire bytes are logical attempted datagrams, not PHY symbols or energy.
 - The 12 seeds capture training randomness only, not variation across subjects or datasets.
 
+## Citation
 
+If you use this code, please cite the paper and the archived code release:
+
+```
+Farid, H. B. Finite payload bias and delivery correction in wireless
+federated learning. Submitted to Telecommunication Systems, 2026.
+
+Farid, H. B. Finite payload bias and delivery correction in wireless
+federated learning: experiment code (v1.0.1). Zenodo, 2026.
+https://doi.org/10.5281/zenodo.23065574
+
+Farid, H. B. Finite payload bias and delivery correction in wireless
+federated learning: result archives and checkpoints. Zenodo, 2026.
+https://doi.org/10.5281/zenodo.23184027
 ```
 
 See also `CITATION.cff`.
 
 ## License
 
-Code released under the [MIT] license (see `LICENSE`). The datasets are subject to their own terms.
+Code released under the MIT license (see `LICENSE`). The datasets are subject to their own terms.
