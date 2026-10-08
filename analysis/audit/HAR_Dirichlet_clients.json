@@ -1,0 +1,254 @@
+[
+  {
+    "study": "HAR_Dirichlet",
+    "client": 1,
+    "n": 159,
+    "class_counts": [
+      54,
+      2,
+      2,
+      93,
+      8,
+      0
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 3,
+    "n": 143,
+    "class_counts": [
+      10,
+      4,
+      4,
+      76,
+      11,
+      38
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 5,
+    "n": 237,
+    "class_counts": [
+      8,
+      8,
+      6,
+      0,
+      4,
+      211
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 6,
+    "n": 278,
+    "class_counts": [
+      2,
+      100,
+      88,
+      5,
+      76,
+      7
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 7,
+    "n": 132,
+    "class_counts": [
+      6,
+      4,
+      111,
+      8,
+      1,
+      2
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 8,
+    "n": 373,
+    "class_counts": [
+      84,
+      132,
+      6,
+      0,
+      148,
+      3
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 11,
+    "n": 220,
+    "class_counts": [
+      50,
+      4,
+      25,
+      106,
+      29,
+      6
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 14,
+    "n": 294,
+    "class_counts": [
+      13,
+      1,
+      21,
+      157,
+      97,
+      5
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 15,
+    "n": 408,
+    "class_counts": [
+      111,
+      7,
+      29,
+      26,
+      69,
+      166
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 17,
+    "n": 356,
+    "class_counts": [
+      3,
+      14,
+      0,
+      1,
+      196,
+      142
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 19,
+    "n": 1146,
+    "class_counts": [
+      603,
+      56,
+      1,
+      1,
+      145,
+      340
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 21,
+    "n": 326,
+    "class_counts": [
+      3,
+      135,
+      78,
+      56,
+      26,
+      28
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 23,
+    "n": 216,
+    "class_counts": [
+      38,
+      34,
+      71,
+      38,
+      0,
+      35
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 26,
+    "n": 574,
+    "class_counts": [
+      0,
+      84,
+      265,
+      34,
+      187,
+      4
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 27,
+    "n": 347,
+    "class_counts": [
+      1,
+      47,
+      2,
+      56,
+      40,
+      201
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 28,
+    "n": 183,
+    "class_counts": [
+      14,
+      43,
+      27,
+      65,
+      34,
+      0
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 29,
+    "n": 308,
+    "class_counts": [
+      2,
+      17,
+      53,
+      161,
+      75,
+      0
+    ],
+    "classes_present": 5
+  },
+  {
+    "study": "HAR_Dirichlet",
+    "client": 30,
+    "n": 556,
+    "class_counts": [
+      53,
+      223,
+      56,
+      207,
+      13,
+      4
+    ],
+    "classes_present": 6
+  }
+]

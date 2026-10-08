@@ -1,0 +1,122 @@
+[
+  {
+    "study": "PAMAP2_subject",
+    "client": 1,
+    "n": 1951,
+    "class_counts": [
+      212,
+      183,
+      170,
+      174,
+      166,
+      184,
+      158,
+      125,
+      116,
+      179,
+      184,
+      100
+    ],
+    "classes_present": 12
+  },
+  {
+    "study": "PAMAP2_subject",
+    "client": 2,
+    "n": 2056,
+    "class_counts": [
+      183,
+      174,
+      200,
+      255,
+      72,
+      196,
+      232,
+      135,
+      119,
+      161,
+      226,
+      103
+    ],
+    "classes_present": 12
+  },
+  {
+    "study": "PAMAP2_subject",
+    "client": 3,
+    "n": 1361,
+    "class_counts": [
+      172,
+      224,
+      161,
+      226,
+      0,
+      0,
+      0,
+      81,
+      120,
+      159,
+      218,
+      0
+    ],
+    "classes_present": 8
+  },
+  {
+    "study": "PAMAP2_subject",
+    "client": 4,
+    "n": 1806,
+    "class_counts": [
+      180,
+      199,
+      193,
+      249,
+      0,
+      176,
+      215,
+      130,
+      112,
+      157,
+      195,
+      0
+    ],
+    "classes_present": 10
+  },
+  {
+    "study": "PAMAP2_subject",
+    "client": 5,
+    "n": 2127,
+    "class_counts": [
+      185,
+      210,
+      172,
+      251,
+      193,
+      192,
+      205,
+      112,
+      99,
+      190,
+      259,
+      59
+    ],
+    "classes_present": 12
+  },
+  {
+    "study": "PAMAP2_subject",
+    "client": 7,
+    "n": 1817,
+    "class_counts": [
+      200,
+      96,
+      201,
+      264,
+      28,
+      177,
+      224,
+      138,
+      90,
+      169,
+      230,
+      0
+    ],
+    "classes_present": 11
+  }
+]

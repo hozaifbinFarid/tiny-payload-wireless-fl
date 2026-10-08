@@ -1,0 +1,254 @@
+[
+  {
+    "study": "HAR_subject",
+    "client": 1,
+    "n": 347,
+    "class_counts": [
+      95,
+      53,
+      49,
+      47,
+      53,
+      50
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 3,
+    "n": 341,
+    "class_counts": [
+      58,
+      59,
+      49,
+      52,
+      61,
+      62
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 5,
+    "n": 302,
+    "class_counts": [
+      56,
+      47,
+      47,
+      44,
+      56,
+      52
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 6,
+    "n": 325,
+    "class_counts": [
+      57,
+      51,
+      48,
+      55,
+      57,
+      57
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 7,
+    "n": 308,
+    "class_counts": [
+      57,
+      51,
+      47,
+      48,
+      53,
+      52
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 8,
+    "n": 281,
+    "class_counts": [
+      48,
+      41,
+      38,
+      46,
+      54,
+      54
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 11,
+    "n": 316,
+    "class_counts": [
+      59,
+      54,
+      46,
+      53,
+      47,
+      57
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 14,
+    "n": 323,
+    "class_counts": [
+      59,
+      54,
+      45,
+      54,
+      60,
+      51
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 15,
+    "n": 328,
+    "class_counts": [
+      54,
+      48,
+      42,
+      59,
+      53,
+      72
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 17,
+    "n": 368,
+    "class_counts": [
+      61,
+      48,
+      46,
+      64,
+      78,
+      71
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 19,
+    "n": 360,
+    "class_counts": [
+      52,
+      40,
+      39,
+      73,
+      73,
+      83
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 21,
+    "n": 408,
+    "class_counts": [
+      52,
+      47,
+      45,
+      85,
+      89,
+      90
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 23,
+    "n": 372,
+    "class_counts": [
+      59,
+      51,
+      54,
+      68,
+      68,
+      72
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 26,
+    "n": 392,
+    "class_counts": [
+      59,
+      55,
+      50,
+      78,
+      74,
+      76
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 27,
+    "n": 376,
+    "class_counts": [
+      57,
+      51,
+      44,
+      70,
+      80,
+      74
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 28,
+    "n": 382,
+    "class_counts": [
+      54,
+      51,
+      46,
+      72,
+      79,
+      80
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 29,
+    "n": 344,
+    "class_counts": [
+      53,
+      49,
+      48,
+      60,
+      65,
+      69
+    ],
+    "classes_present": 6
+  },
+  {
+    "study": "HAR_subject",
+    "client": 30,
+    "n": 383,
+    "class_counts": [
+      65,
+      65,
+      62,
+      62,
+      59,
+      70
+    ],
+    "classes_present": 6
+  }
+]
