@@ -7,9 +7,9 @@ authors:
     given-names: "Hozaif Bin"
     orcid: "https://orcid.org/0009-0004-9247-6045"
     affiliation: "Pabna University of Science and Technology"
-version: "1.0.1"
-doi: "10.5281/zenodo.23065574"
-date-released: "2026-09-30"
+version: "1.0.2"
+doi: "10.5281/zenodo.23057925"
+date-released: "2026-10-08"
 license: MIT
 repository-code: "https://github.com/hozaifbinFarid/tiny-payload-wireless-fl"
 keywords:
