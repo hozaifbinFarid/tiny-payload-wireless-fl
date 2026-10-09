@@ -2,7 +2,7 @@
 
 Experiment code for the paper **"Finite payload bias and delivery correction in wireless federated learning"** (Hozaif Bin Farid, 2026; submitted to *Telecommunication Systems*).
 Code archive (all versions): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23057925.svg)](https://doi.org/10.5281/zenodo.23057925)  
-Code v1.0.1: <https://doi.org/10.5281/zenodo.23065574>  
+Code v1.0.2: https://doi.org/10.5281/zenodo.23243377  
 Result archives and checkpoints: <https://doi.org/10.5281/zenodo.23184027>
 
 ## What this is
@@ -92,8 +92,8 @@ Farid, H. B. Finite payload bias and delivery correction in wireless
 federated learning. Submitted to Telecommunication Systems, 2026.
 
 Farid, H. B. Finite payload bias and delivery correction in wireless
-federated learning: experiment code (v1.0.1). Zenodo, 2026.
-https://doi.org/10.5281/zenodo.23065574
+federated learning: experiment code (v1.0.2). Zenodo, 2026.
+https://doi.org/10.5281/zenodo.23243377
 
 Farid, H. B. Finite payload bias and delivery correction in wireless
 federated learning: result archives and checkpoints. Zenodo, 2026.
